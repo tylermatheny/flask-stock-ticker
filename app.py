@@ -13,13 +13,6 @@ app = Flask(__name__)
 import os
 
 stock = {}
-	
-#@app.route('/dashboard/', methods = ['GET', 'POST'])
-#def dashboard():
-#    #plots = []
-#   # plots.append(make_plot())
-#   print(appvars.get('ticker'))
-#   return render_template('dashboard.html')
 
 
 # Index page

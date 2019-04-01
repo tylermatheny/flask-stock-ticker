@@ -1,0 +1,9 @@
+pandas
+bokeh
+flask
+jinja2
+pip
+simplejson
+requests
+wtforms
+flask-wtf
